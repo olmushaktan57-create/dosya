@@ -1,0 +1,2 @@
+# dosya
+virüssüz dosya
